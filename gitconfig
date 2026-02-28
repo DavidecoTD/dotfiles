@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ing.davidec@gmail.com
+	name = David Enriquez ing.davidec@gmail.com
